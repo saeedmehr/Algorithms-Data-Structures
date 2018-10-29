@@ -19,6 +19,11 @@ A program that recalled the age of the candidates from the input and the age of 
 this program will continue to read from the input as long as the negative number of one is not entered.
 
 
+* E4
+A program that reads 20 entries and at the end prints the number that has the largest number of divisors in the output.
+If they had a few numbers, they would print the largest of them
+
+
 
 
 
