@@ -23,7 +23,16 @@ this program will continue to read from the input as long as the negative number
 A program that reads 20 entries and at the end prints the number that has the largest number of divisors in the output.
 If they had a few numbers, they would print the largest of them
 
+* E5
+A program that reads a string from the input and makes the following changes in it.
 
+1 - Clear all the vowels.
+
+2 - Before each silent letter, print a point.
+
+3 - Write down all the silent letters that are left.
+
+(Vowels are aeiou)
 
 
 
