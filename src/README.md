@@ -34,6 +34,10 @@ A program that reads a string from the input and makes the following changes in 
 
 (Vowels are aeiou)
 
+* E6
+a program that reads 10 name's from the input and outputs their standardized form.
+(the standard means exactly the first letter of the name should be Uppercase, and the rest of the letters are lowercase)
+
 
 
 
