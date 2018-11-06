@@ -17,8 +17,6 @@ Enjoy
 * The Quick Sort
 
 
-
-## Trees and Tree Algorithms
 ## Code Examples
 * go to src folder
 
