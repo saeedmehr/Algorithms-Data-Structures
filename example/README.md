@@ -42,6 +42,11 @@ a program that reads 10 name's from the input and outputs their standardized for
 A program that determines whether the input word is palindrome or not.
 a palindrome word is word that can be read from left or right and be the same.
 
+* E8
+If the word of if the number of uppercase letters are greater than the number of lowercase letters,
+wrtie the whole word in capital letters, otherwise the whole word will be written in lowercase letters.
+
+
 
 
 
