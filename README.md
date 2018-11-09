@@ -1,7 +1,7 @@
 # Algorithms-and-Data-Structures_Python-
->Problem Solving with Algorithms and Data Structures using Python,
->soon i will write the Standard ways of using these topics of Algorithm and Data structures in python.
- Enjoy
+Problem Solving with Algorithms and Data Structures using Python,
+soon i will write the Standard ways of using these topics of Algorithm and Data structures in python.
+Enjoy
 
 ## Searching
 * The Sequential Search
