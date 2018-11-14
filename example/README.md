@@ -46,8 +46,9 @@ a palindrome word is word that can be read from left or right and be the same.
 If the word of if the number of uppercase letters are greater than the number of lowercase letters,
 wrtie the whole word in capital letters, otherwise the whole word will be written in lowercase letters.
 
-
-
+* E9
+Loops and function:write a program that can play the "number guesses" game where you have to pick a number in your head
+then the computer will guess a number and you have to say smaller or bigger until it finds it.
 
 
 
